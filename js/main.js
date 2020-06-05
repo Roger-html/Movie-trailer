@@ -1,1 +1,1 @@
-// Add all your JS here
+alert('Nota:la mayoria de las peliculas ya fueron estrenadas');

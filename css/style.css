@@ -1,1 +1,19 @@
-/* Add all your styles here */
+header{
+    font-family:fantasy;
+    font-size:30px;
+    text-align:center;
+    margin-top:60px;
+}
+body {
+    background-color:#26c6da;
+    text-align:center;
+    color:#ff9900;
+    font-weight:bold; background-image:url(https://i.pinimg.com/originals/2b/1d/87/2b1d870c5b0aa29d68aae9adef4e54f1.jpg);
+}
+#c{
+    text-align:left;
+}
+.ma{
+    margin-top:30px;
+    padding-bottom:30px;
+}
