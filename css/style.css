@@ -17,3 +17,32 @@ body {
     margin-top:30px;
     padding-bottom:30px;
 }
+input{
+    margin-top:10px;
+    padding-bottom:10px;
+    border-radius:5px ;
+    background-color:#bbdefb;
+    padding:9px;
+}
+textarea{ 
+    margin-top:10px;
+    height:110px;
+    width:190px;
+    border-radius:5px;
+    padding:6px;
+    background-color:#bbdefb;
+}
+#submit{
+    background-color:aqua;
+    padding:12px 20px;
+    font-weight:bold;
+}
+#i{ 
+    text-decoration:none;
+    color:orange;
+}
+button{ 
+    margin-top:20px;
+    border-radius:5px;
+    background-color:#154360;
+}
