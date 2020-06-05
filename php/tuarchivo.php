@@ -1,6 +1,10 @@
 <?php 
-copy($_NOMBRE['nombre']['tmp_name'],$_NOMBRE['nombre']['name']); 
-copy($_EMAIL['email']['tmp_name'],$_EMAIL['email']['name']); 
-copy($_MESSAGE['message']['tmp_name'],$_MESSAGE['message']['name']); 
-echo "Tu mensaje a sido enviado."; 
+echo "Gracias tu mensaje pronto sera respondido";
+$nom = $_POST["nombre"];
+$ema = $_POST["email"];
+$mes = $_POST["message"];
+
+echo "El nombre es:".$nom."<br>";
+echo "El correo es:".$ema."<br>";
+echo "El mensaje es:".$mes."<br>";
 ?>
