@@ -10,6 +10,9 @@ body {
     color:#ff9900;
     font-weight:bold; background-image:url(https://i.pinimg.com/originals/2b/1d/87/2b1d870c5b0aa29d68aae9adef4e54f1.jpg);
 }
+footer{
+    font-size:10px;
+}
 #c{
     text-align:left;
 }
@@ -27,7 +30,7 @@ input{
 textarea{ 
     margin-top:10px;
     height:110px;
-    width:190px;
+    width:200px;
     border-radius:5px;
     padding:6px;
     background-color:#bbdefb;
