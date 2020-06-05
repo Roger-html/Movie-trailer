@@ -1,12 +1,10 @@
 <?php 
 echo "Gracias tu mensaje pronto sera respondido";
-$nombre=$_POST['nombre'];
-$email=$_POST['email'];
-$message=$_POST['message'];
+$nom = $_POST["nombre"];
+$ema = $_POST["email"];
+$mes = $_POST["message"];
 
-echo $nombre;
-echo "<br>";
-echo $email;
-echo "<br>";
-echo $message;
+echo "El nombre es:".$nom."<br>";
+echo "El correo es:".$ema."<br>";
+echo "El mensaje es:".$mes."<br>";
 ?>
