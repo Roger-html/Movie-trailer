@@ -1,1 +1,2 @@
-alert('Nota:la mayoria de las peliculas ya fueron estrenadas');
+name=prompt("Escribe tu nombre");
+alert("Bienvenido "+name+" a mi pagina espero te guste");
